@@ -75,10 +75,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zohaib666&theme=tokyonight" height="180em"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zohaib666&theme=tokyo-night" alt="GitHub Activity Graph"/>
-</p>
-
 ---
 
 ## 🌐 Connect with Me  
@@ -86,7 +82,9 @@
 <p align="center">
   <a href="mailto:zebihassan666@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
   <a href="https://www.linkedin.com/in/zohaibhassan66/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-  <a href="https://leetcode.com/u/Zohaib-09/"><img src="https://skillicons.dev/icons?i=leetcode" height="40"></a>
+  <a href="https://leetcode.com/u/Zohaib-09/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode"/>
+  </a>
   <a href="https://github.com/Zohaib666"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
 </p>
 
